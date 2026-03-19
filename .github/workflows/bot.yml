@@ -1,10 +1,10 @@
 name: Ofertas Bot
 
 on:
-  schedule:
-    - cron: "0 12 * * *"
-    - cron: "0 16 * * *"
-    - cron: "0 23 * * *"
+  #schedule:
+   # - cron: "0 12 * * *"
+   # - cron: "0 16 * * *"
+   # - cron: "0 23 * * *"
   workflow_dispatch:
 
 jobs:
